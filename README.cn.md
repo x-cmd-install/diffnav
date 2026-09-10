@@ -4,7 +4,7 @@
 
 A git diff pager based on delta but with a file tree, à la GitHub.
 
-![diffnav](https://repo.x-cmd.io/diffnav.svg)
+![diffnav](https://repo.x-cmd.io/diffnav.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,24 @@ x install diffnav
 - **最新版本**: `v0.12.0` (2026-07-24)
 - **最近提交**: 2026-09-01
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-07-24T10:21:39Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [diffnav_0.12.0_checksums.txt](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_0.12.0_checksums.txt) | 744 B | `other` |
+| [diffnav_Darwin_arm64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Darwin_arm64.tar.gz) | 3.0 MiB | `native/darwin/arm64` |
+| [diffnav_Darwin_x86_64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Darwin_x86_64.tar.gz) | 3.2 MiB | `native/darwin/x64` |
+| [diffnav_Linux_arm64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Linux_arm64.tar.gz) | 2.9 MiB | `native/linux/arm64` |
+| [diffnav_Linux_i386.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Linux_i386.tar.gz) | 3.0 MiB | `native/linux/x86` |
+| [diffnav_Linux_x86_64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Linux_x86_64.tar.gz) | 3.2 MiB | `native/linux/x64` |
+| [diffnav_Windows_arm64.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Windows_arm64.zip) | 2.9 MiB | `native/win/arm64` |
+| [diffnav_Windows_i386.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Windows_i386.zip) | 3.1 MiB | `native/win/x64` |
+| [diffnav_Windows_x86_64.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Windows_x86_64.zip) | 3.3 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 1,557 · **Fork**: 46 · **开放 issue**: 59 · **贡献者**: 13
+- **Star**: 1,559 · **Fork**: 46 · **开放 issue**: 59 · **贡献者**: 13
 
 ## 累计统计
 
@@ -61,4 +74,4 @@ diffnav 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:25:33Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:01:47Z._
