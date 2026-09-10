@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.12.0"
   latestRelease: "v0.12.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T03:25:26Z
+  collectedAt: 2026-09-10T16:01:41Z
 timeline:
   created: 2024-09-18
   lastCommit: 2026-09-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-24
   lastPrerelease: 
 popularity:
-  star: 1557
+  star: 1559
   watcher: 6
   fork: 46
   release: 21
@@ -85,7 +85,7 @@ total:
   commit: 158
 ---
 path: /home/runner/.x-repo/github.com/dlvhdr/diffnav
-collectedAt: 2026-09-10T03:25:28Z
+collectedAt: 2026-09-10T16:01:42Z
 loc:
   Go:
     code: 6958
