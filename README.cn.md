@@ -37,7 +37,7 @@ x install diffnav
 
 ## 流行度
 
-- **Star**: 1,562 · **Fork**: 47 · **开放 issue**: 59 · **贡献者**: 13
+- **Star**: 1,565 · **Fork**: 47 · **开放 issue**: 59 · **贡献者**: 13
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install diffnav
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 3 | 0 | 0 | 1 | 4 |
-| last60d | 2026-07-15 | 1 | 4 | 1 | 2 | 2 | 7 |
-| 90d | 2026-06-15 | 1 | 6 | 1 | 4 | 2 | 9 |
-| last180d | 2026-03-17 | 2 | 23 | 3 | 10 | 6 | 29 |
-| 360d | 2025-09-18 | 11 | 58 | 4 | 17 | 18 | 80 |
-| last720d | 2024-09-23 | 21 | 77 | 4 | 29 | 23 | 125 |
+| 30d | 2026-08-15 | 0 | 3 | 0 | 0 | 1 | 4 |
+| last60d | 2026-07-16 | 1 | 4 | 1 | 2 | 2 | 7 |
+| 90d | 2026-06-16 | 1 | 6 | 1 | 4 | 2 | 9 |
+| last180d | 2026-03-18 | 2 | 23 | 3 | 10 | 6 | 29 |
+| 360d | 2025-09-19 | 11 | 58 | 4 | 17 | 18 | 80 |
+| last720d | 2024-09-24 | 21 | 77 | 4 | 28 | 23 | 124 |
 
 ## Release 资产
 
@@ -68,16 +68,6 @@ x install diffnav
 | [diffnav_Windows_i386.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Windows_i386.zip) | 3.1 MiB | `native/win/x64` |
 | [diffnav_Windows_x86_64.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Windows_x86_64.zip) | 3.3 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/diffnav) 上共有 **14** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.11.0` | ⚠️ outdated |
-| Homebrew | `0.12.0` | ✅ latest |
-| Nix unstable | `0.12.0` | ✅ latest |
-
 ## 改进这些数据
 
 diffnav 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `diffnav` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -87,4 +77,4 @@ diffnav 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T03:32:55Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T03:42:53Z._
