@@ -4,7 +4,7 @@
 
 A git diff pager based on delta but with a file tree, à la GitHub.
 
-[![x-cmd/install — diffnav Code Quality Monitoring Repo Card](https://repo.x-cmd.io/diffnav.svg)](https://x-cmd.com/install/diffnav)
+[![x-cmd/install — diffnav Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/diffnav.svg)](https://x-cmd.com/install/diffnav)
 
 ## Install
 
@@ -32,27 +32,27 @@ Total: **7,506** lines of code across **45** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.12.0` (2026-07-24)
-- **Last commit**: 2026-09-01
+- **Last commit**: 2026-09-22
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,566 · **Forks**: 48 · **Open issues**: 60 · **Contributors**: 13
+- **Stars**: 1,567 · **Forks**: 48 · **Open issues**: 60 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 77 · **Open PRs**: 4 · **Closed issues**: 35 · **Open issues**: 25 · **Commits**: 158
+- **Releases**: 21 · **Merged PRs**: 77 · **Open PRs**: 4 · **Closed issues**: 35 · **Open issues**: 25 · **Commits**: 159
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 2 | 1 |
-| last60d | 2026-07-24 | 1 | 4 | 1 | 2 | 3 | 6 |
-| 90d | 2026-06-24 | 1 | 5 | 1 | 2 | 3 | 8 |
-| last180d | 2026-03-26 | 1 | 19 | 3 | 7 | 6 | 28 |
-| 360d | 2025-09-27 | 11 | 57 | 4 | 17 | 19 | 80 |
-| last720d | 2024-10-02 | 16 | 67 | 4 | 20 | 23 | 95 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 2 | 2 |
+| last60d | 2026-07-25 | 0 | 4 | 1 | 1 | 3 | 7 |
+| 90d | 2026-06-25 | 1 | 5 | 1 | 2 | 3 | 9 |
+| last180d | 2026-03-27 | 1 | 18 | 3 | 6 | 6 | 29 |
+| 360d | 2025-09-28 | 11 | 57 | 4 | 17 | 19 | 81 |
+| last720d | 2024-10-03 | 16 | 64 | 4 | 19 | 23 | 96 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for diffnav lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T03:39:17Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:38:57Z._
