@@ -14,13 +14,13 @@ x install diffnav
 
 ## Code insight
 
-Total: **7,506** lines of code across **45** files in the top 5 languages.
+Total: **7,515** lines of code across **45** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 6,958 | 603 | 922 | 40 |
+| Go | 6,956 | 603 | 922 | 40 |
 | Json | 422 | 0 | 0 | 2 |
-| Yaml | 98 | 1 | 17 | 1 |
+| Yaml | 109 | 1 | 19 | 1 |
 | Bitbake | 26 | 0 | 5 | 1 |
 | Toml | 2 | 0 | 0 | 1 |
 
@@ -31,42 +31,42 @@ Total: **7,506** lines of code across **45** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.12.0` (2026-07-24)
-- **Last commit**: 2026-09-22
+- **Latest**: `v0.13.0` (2026-10-06)
+- **Last commit**: 2026-10-06
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,587 · **Forks**: 50 · **Open issues**: 60 · **Contributors**: 13
+- **Stars**: 1,588 · **Forks**: 50 · **Open issues**: 60 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 77 · **Open PRs**: 6 · **Closed issues**: 35 · **Open issues**: 25 · **Commits**: 159
+- **Releases**: 22 · **Merged PRs**: 78 · **Open PRs**: 5 · **Closed issues**: 35 · **Open issues**: 25 · **Commits**: 160
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 2 | 0 | 1 | 1 |
-| last60d | 2026-08-07 | 0 | 3 | 2 | 0 | 2 | 5 |
-| 90d | 2026-07-08 | 1 | 4 | 3 | 2 | 3 | 9 |
-| last180d | 2026-04-09 | 1 | 17 | 5 | 5 | 5 | 28 |
-| 360d | 2025-10-11 | 11 | 57 | 6 | 17 | 19 | 81 |
-| last720d | 2024-10-16 | 13 | 63 | 6 | 18 | 23 | 90 |
+| 30d | 2026-09-07 | 1 | 1 | 1 | 0 | 1 | 2 |
+| last60d | 2026-08-08 | 1 | 4 | 1 | 0 | 2 | 6 |
+| 90d | 2026-07-09 | 2 | 5 | 2 | 2 | 3 | 10 |
+| last180d | 2026-04-10 | 2 | 17 | 4 | 4 | 5 | 29 |
+| 360d | 2025-10-12 | 12 | 58 | 5 | 17 | 19 | 82 |
+| last720d | 2024-10-17 | 14 | 64 | 5 | 18 | 23 | 91 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [diffnav_0.12.0_checksums.txt](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_0.12.0_checksums.txt) | 744 B | `other` |
-| [diffnav_Darwin_arm64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Darwin_arm64.tar.gz) | 3.0 MiB | `native/darwin/arm64` |
-| [diffnav_Darwin_x86_64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Darwin_x86_64.tar.gz) | 3.2 MiB | `native/darwin/x64` |
-| [diffnav_Linux_arm64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Linux_arm64.tar.gz) | 2.9 MiB | `native/linux/arm64` |
-| [diffnav_Linux_i386.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Linux_i386.tar.gz) | 3.0 MiB | `native/linux/x86` |
-| [diffnav_Linux_x86_64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Linux_x86_64.tar.gz) | 3.2 MiB | `native/linux/x64` |
-| [diffnav_Windows_arm64.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Windows_arm64.zip) | 2.9 MiB | `native/win/arm64` |
-| [diffnav_Windows_i386.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Windows_i386.zip) | 3.1 MiB | `native/win/x64` |
-| [diffnav_Windows_x86_64.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.12.0/diffnav_Windows_x86_64.zip) | 3.3 MiB | `native/win/x64` |
+| [diffnav_0.13.0_checksums.txt](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_0.13.0_checksums.txt) | 744 B | `other` |
+| [diffnav_Darwin_arm64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Darwin_arm64.tar.gz) | 4.6 MiB | `native/darwin/arm64` |
+| [diffnav_Darwin_x86_64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Darwin_x86_64.tar.gz) | 5.0 MiB | `native/darwin/x64` |
+| [diffnav_Linux_arm64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
+| [diffnav_Linux_i386.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Linux_i386.tar.gz) | 4.7 MiB | `native/linux/x86` |
+| [diffnav_Linux_x86_64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Linux_x86_64.tar.gz) | 4.9 MiB | `native/linux/x64` |
+| [diffnav_Windows_arm64.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Windows_arm64.zip) | 4.5 MiB | `native/win/arm64` |
+| [diffnav_Windows_i386.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Windows_i386.zip) | 4.9 MiB | `native/win/x64` |
+| [diffnav_Windows_x86_64.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Windows_x86_64.zip) | 5.1 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -77,4 +77,4 @@ Install metadata for diffnav lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T05:12:49Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T04:40:37Z._
