@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 744,
       "digest": "sha256:d56d10789b3055fa209ce7d3bcd0c9fda8383e888fe07e0672607b03e93dbf6c",
-      "download_count": 24,
+      "download_count": 26,
       "created_at": "2026-10-06T08:27:18Z",
       "updated_at": "2026-10-06T08:27:18Z",
       "browser_download_url": "https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_0.13.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4855683,
       "digest": "sha256:2effd3f95da3a430d103a14a0e4445a85c3007d08ff70c04ecfb55c49355c124",
-      "download_count": 172,
+      "download_count": 216,
       "created_at": "2026-10-06T08:27:16Z",
       "updated_at": "2026-10-06T08:27:17Z",
       "browser_download_url": "https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5230472,
       "digest": "sha256:40b24fd65e22b15ce7d0bdf5672c1a41f17db6aefe8f3bfe6bc158f4486c4830",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-10-06T08:27:17Z",
       "updated_at": "2026-10-06T08:27:18Z",
       "browser_download_url": "https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4672852,
       "digest": "sha256:869f240585af0c88a37a1425d620695921896486f32d8d6f293739f9a598afe0",
-      "download_count": 11,
+      "download_count": 15,
       "created_at": "2026-10-06T08:27:17Z",
       "updated_at": "2026-10-06T08:27:18Z",
       "browser_download_url": "https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4941489,
       "digest": "sha256:dbe853ddead105d9d24dd02ad036d50001deb7e95647a72f5cfdfb3f347ed923",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-10-06T08:27:16Z",
       "updated_at": "2026-10-06T08:27:17Z",
       "browser_download_url": "https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Linux_i386.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5161742,
       "digest": "sha256:6c881e756d36c20111ac4c4dfba54a04bdbee4a233e92f3ba4b18a6f34cb2031",
-      "download_count": 85,
+      "download_count": 109,
       "created_at": "2026-10-06T08:27:17Z",
       "updated_at": "2026-10-06T08:27:17Z",
       "browser_download_url": "https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Linux_x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4754102,
       "digest": "sha256:87ec17b41bf4231e6fce1edae97b21c387c20a434101e8a233c1850919dc1c71",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-10-06T08:27:16Z",
       "updated_at": "2026-10-06T08:27:17Z",
       "browser_download_url": "https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Windows_arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5167644,
       "digest": "sha256:83b197e3c7d8ccf19650ce224a5b5a8075ab29e65c518e0b9c6ef491bc5e344c",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-06T08:27:17Z",
       "updated_at": "2026-10-06T08:27:17Z",
       "browser_download_url": "https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Windows_i386.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5322752,
       "digest": "sha256:2d9fd97556008580f881300a44976d79e90af7ae998c752d7fccbe1dc96afb56",
-      "download_count": 29,
+      "download_count": 40,
       "created_at": "2026-10-06T08:27:16Z",
       "updated_at": "2026-10-06T08:27:17Z",
       "browser_download_url": "https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Windows_x86_64.zip"
