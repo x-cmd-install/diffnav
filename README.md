@@ -37,7 +37,7 @@ Total: **7,515** lines of code across **45** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,598 · **Forks**: 51 · **Open issues**: 61 · **Contributors**: 13
+- **Stars**: 1,601 · **Forks**: 51 · **Open issues**: 61 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **7,515** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 1 | 1 | 0 | 1 | 5 |
-| last60d | 2026-08-23 | 1 | 1 | 1 | 0 | 3 | 7 |
-| 90d | 2026-07-24 | 2 | 5 | 2 | 2 | 4 | 12 |
-| last180d | 2026-04-25 | 2 | 16 | 3 | 4 | 5 | 31 |
-| 360d | 2025-10-27 | 12 | 58 | 5 | 17 | 20 | 86 |
-| last720d | 2024-11-01 | 14 | 64 | 5 | 18 | 24 | 95 |
+| 30d | 2026-09-23 | 1 | 1 | 1 | 0 | 1 | 5 |
+| last60d | 2026-08-24 | 1 | 1 | 1 | 0 | 3 | 7 |
+| 90d | 2026-07-25 | 1 | 5 | 2 | 1 | 4 | 12 |
+| last180d | 2026-04-26 | 2 | 16 | 3 | 4 | 5 | 31 |
+| 360d | 2025-10-28 | 12 | 58 | 5 | 17 | 20 | 86 |
+| last720d | 2024-11-02 | 14 | 64 | 5 | 18 | 24 | 95 |
 
 ## Release assets
 
@@ -68,6 +68,16 @@ Total: **7,515** lines of code across **45** files in the top 5 languages.
 | [diffnav_Windows_i386.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Windows_i386.zip) | 4.9 MiB | `native/win/x64` |
 | [diffnav_Windows_x86_64.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Windows_x86_64.zip) | 5.1 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **14** distros on [repology.org](https://repology.org/project/diffnav). **7** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.13.0` | ✅ latest |
+| Homebrew | `0.13.0` | ✅ latest |
+| Nix unstable | `0.13.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for diffnav lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `diffnav` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +87,4 @@ Install metadata for diffnav lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T03:35:08Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T03:39:53Z._
