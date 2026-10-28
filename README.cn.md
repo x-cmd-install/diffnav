@@ -14,11 +14,11 @@ x install diffnav
 
 ## 代码洞察
 
-合计: **7,515** 行代码（覆盖前 5 种语言、共 **45** 个文件）。
+合计: **7,504** 行代码（覆盖前 5 种语言、共 **45** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 6,956 | 603 | 922 | 40 |
+| Go | 6,945 | 604 | 921 | 40 |
 | Json | 422 | 0 | 0 | 2 |
 | Yaml | 109 | 1 | 19 | 1 |
 | Bitbake | 26 | 0 | 5 | 1 |
@@ -31,52 +31,52 @@ x install diffnav
 
 ## 发布
 
-- **最新版本**: `v0.13.0` (2026-10-06)
-- **最近提交**: 2026-10-25
+- **最新版本**: `v0.13.1` (2026-10-27)
+- **最近提交**: 2026-10-27
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 1,606 · **Fork**: 50 · **开放 issue**: 62 · **贡献者**: 13
+- **Star**: 1,612 · **Fork**: 50 · **开放 issue**: 62 · **贡献者**: 13
 
 ## 累计统计
 
-- **发布数**: 22 · **已合并 PR**: 78 · **开放 PR**: 6 · **已关闭 issue**: 35 · **开放 issue**: 27 · **提交数**: 166
+- **发布数**: 23 · **已合并 PR**: 79 · **开放 PR**: 6 · **已关闭 issue**: 35 · **开放 issue**: 27 · **提交数**: 167
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 1 | 2 | 0 | 2 | 7 |
-| last60d | 2026-08-28 | 1 | 1 | 2 | 0 | 4 | 8 |
-| 90d | 2026-07-29 | 1 | 5 | 3 | 0 | 5 | 13 |
-| last180d | 2026-04-30 | 2 | 16 | 4 | 4 | 6 | 31 |
-| 360d | 2025-11-01 | 12 | 58 | 6 | 17 | 21 | 88 |
-| last720d | 2024-11-06 | 14 | 64 | 6 | 18 | 25 | 97 |
+| 30d | 2026-09-28 | 2 | 2 | 2 | 0 | 2 | 8 |
+| last60d | 2026-08-29 | 2 | 2 | 2 | 0 | 4 | 9 |
+| 90d | 2026-07-30 | 2 | 6 | 3 | 0 | 5 | 14 |
+| last180d | 2026-05-01 | 3 | 16 | 4 | 4 | 6 | 32 |
+| 360d | 2025-11-02 | 13 | 59 | 6 | 17 | 21 | 89 |
+| last720d | 2024-11-07 | 15 | 65 | 6 | 18 | 25 | 98 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [diffnav_0.13.0_checksums.txt](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_0.13.0_checksums.txt) | 744 B | `other` |
-| [diffnav_Darwin_arm64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Darwin_arm64.tar.gz) | 4.6 MiB | `native/darwin/arm64` |
-| [diffnav_Darwin_x86_64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Darwin_x86_64.tar.gz) | 5.0 MiB | `native/darwin/x64` |
-| [diffnav_Linux_arm64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
-| [diffnav_Linux_i386.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Linux_i386.tar.gz) | 4.7 MiB | `native/linux/x86` |
-| [diffnav_Linux_x86_64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Linux_x86_64.tar.gz) | 4.9 MiB | `native/linux/x64` |
-| [diffnav_Windows_arm64.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Windows_arm64.zip) | 4.5 MiB | `native/win/arm64` |
-| [diffnav_Windows_i386.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Windows_i386.zip) | 4.9 MiB | `native/win/x64` |
-| [diffnav_Windows_x86_64.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.13.0/diffnav_Windows_x86_64.zip) | 5.1 MiB | `native/win/x64` |
+| [diffnav_0.13.1_checksums.txt](https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_0.13.1_checksums.txt) | 744 B | `other` |
+| [diffnav_Darwin_arm64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Darwin_arm64.tar.gz) | 4.6 MiB | `native/darwin/arm64` |
+| [diffnav_Darwin_x86_64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Darwin_x86_64.tar.gz) | 5.0 MiB | `native/darwin/x64` |
+| [diffnav_Linux_arm64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
+| [diffnav_Linux_i386.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Linux_i386.tar.gz) | 4.7 MiB | `native/linux/x86` |
+| [diffnav_Linux_x86_64.tar.gz](https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Linux_x86_64.tar.gz) | 4.9 MiB | `native/linux/x64` |
+| [diffnav_Windows_arm64.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Windows_arm64.zip) | 4.5 MiB | `native/win/arm64` |
+| [diffnav_Windows_i386.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Windows_i386.zip) | 4.9 MiB | `native/win/x64` |
+| [diffnav_Windows_x86_64.zip](https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Windows_x86_64.zip) | 5.1 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/diffnav) 上共有 **14** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/diffnav) 上共有 **14** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `0.13.0` | ✅ latest |
-| Homebrew | `0.13.0` | ✅ latest |
-| Nix unstable | `0.13.0` | ✅ latest |
+| Arch | `0.13.0` | ⚠️ outdated |
+| Homebrew | `0.13.1` | ✅ latest |
+| Nix unstable | `0.13.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ diffnav 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T03:58:30Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T04:22:01Z._
