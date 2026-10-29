@@ -37,7 +37,7 @@ Total: **7,504** lines of code across **45** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,612 · **Forks**: 50 · **Open issues**: 62 · **Contributors**: 13
+- **Stars**: 1,614 · **Forks**: 50 · **Open issues**: 62 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **7,504** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 2 | 2 | 2 | 0 | 2 | 8 |
-| last60d | 2026-08-29 | 2 | 2 | 2 | 0 | 4 | 9 |
-| 90d | 2026-07-30 | 2 | 6 | 3 | 0 | 5 | 14 |
-| last180d | 2026-05-01 | 3 | 16 | 4 | 4 | 6 | 32 |
-| 360d | 2025-11-02 | 13 | 59 | 6 | 17 | 21 | 89 |
-| last720d | 2024-11-07 | 15 | 65 | 6 | 18 | 25 | 98 |
+| 30d | 2026-09-29 | 2 | 2 | 2 | 0 | 2 | 8 |
+| last60d | 2026-08-30 | 2 | 2 | 2 | 0 | 4 | 9 |
+| 90d | 2026-07-31 | 2 | 6 | 3 | 0 | 5 | 14 |
+| last180d | 2026-05-02 | 3 | 15 | 4 | 4 | 6 | 32 |
+| 360d | 2025-11-03 | 13 | 59 | 6 | 17 | 21 | 89 |
+| last720d | 2024-11-08 | 15 | 65 | 6 | 18 | 25 | 98 |
 
 ## Release assets
 
@@ -70,13 +70,13 @@ Total: **7,504** lines of code across **45** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/diffnav). **2** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/diffnav). **4** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.13.0` | ⚠️ outdated |
 | Homebrew | `0.13.1` | ✅ latest |
-| Nix unstable | `0.13.0` | ⚠️ outdated |
+| Nix unstable | `0.13.1` | ✅ latest |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for diffnav lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T04:22:00Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T04:41:48Z._
