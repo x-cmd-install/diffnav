@@ -37,28 +37,6 @@
     - MIT
   categories:
     - textproc
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: diffnav
-  binname: diffnav
-  visiblename: diffnav
-  version: 0.11.0
-  origversion: 0.11.0-1
-  status: outdated
-  summary: git diff pager based on delta but with a file tree, à la GitHub
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: diffnav
-  binname: diffnav
-  visiblename: diffnav
-  version: 0.11.0
-  origversion: 0.11.0-1
-  status: outdated
-  summary: git diff pager based on delta but with a file tree, à la GitHub
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: diffnav
