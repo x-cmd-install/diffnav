@@ -37,7 +37,7 @@ Total: **7,504** lines of code across **45** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,625 · **Forks**: 53 · **Open issues**: 64 · **Contributors**: 13
+- **Stars**: 1,626 · **Forks**: 54 · **Open issues**: 64 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **7,504** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 1 | 4 | 0 | 4 | 6 |
-| last60d | 2026-09-07 | 2 | 2 | 5 | 0 | 5 | 9 |
-| 90d | 2026-08-08 | 2 | 5 | 5 | 0 | 6 | 13 |
-| last180d | 2026-05-10 | 3 | 10 | 6 | 4 | 8 | 28 |
-| 360d | 2025-11-11 | 13 | 59 | 9 | 17 | 23 | 89 |
-| last720d | 2024-11-16 | 15 | 65 | 9 | 18 | 26 | 98 |
+| 30d | 2026-10-08 | 1 | 1 | 4 | 0 | 4 | 6 |
+| last60d | 2026-09-08 | 2 | 2 | 5 | 0 | 5 | 9 |
+| 90d | 2026-08-09 | 2 | 5 | 5 | 0 | 6 | 13 |
+| last180d | 2026-05-11 | 3 | 10 | 6 | 4 | 8 | 28 |
+| 360d | 2025-11-12 | 13 | 59 | 9 | 17 | 23 | 89 |
+| last720d | 2024-11-17 | 15 | 65 | 9 | 18 | 26 | 98 |
 
 ## Release assets
 
@@ -70,7 +70,7 @@ Total: **7,504** lines of code across **45** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/diffnav). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/diffnav). **4** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for diffnav lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T05:26:49Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T04:55:12Z._
