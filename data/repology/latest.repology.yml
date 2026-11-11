@@ -1,4 +1,15 @@
-- repo: parabola
+- repo: nix_stable_25_05
+  srcname: diffnav
+  visiblename: diffnav
+  version: 0.3.1
+  origversion: null
+  status: outdated
+  summary: Git diff pager based on delta but with a file tree, à la GitHub
+  maintainers:
+    - amesgen@amesgen.de
+  licenses:
+    - MIT
+- repo: manjaro_testing
   subrepo: extra
   srcname: diffnav
   binname: diffnav
@@ -9,7 +20,7 @@
   summary: git diff pager based on delta but with a file tree, à la GitHub
   licenses:
     - MIT
-- repo: arch
+- repo: manjaro_unstable
   subrepo: extra
   srcname: diffnav
   binname: diffnav
@@ -17,6 +28,28 @@
   version: 0.13.0
   origversion: 0.13.0-1
   status: outdated
+  summary: git diff pager based on delta but with a file tree, à la GitHub
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: diffnav
+  visiblename: diffnav
+  version: 0.2.8
+  origversion: null
+  status: outdated
+  summary: Git diff pager based on delta but with a file tree, à la GitHub
+  maintainers:
+    - amesgen@amesgen.de
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: diffnav
+  binname: diffnav
+  visiblename: diffnav
+  version: 0.13.1
+  origversion: 0.13.1-1
+  status: newest
   summary: git diff pager based on delta but with a file tree, à la GitHub
   licenses:
     - MIT
@@ -59,50 +92,6 @@
   summary: git diff pager based on delta but with a file tree, à la GitHub
   licenses:
     - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: diffnav
-  binname: diffnav
-  visiblename: diffnav
-  version: 0.13.0
-  origversion: 0.13.0-1
-  status: outdated
-  summary: git diff pager based on delta but with a file tree, à la GitHub
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: diffnav
-  binname: diffnav
-  visiblename: diffnav
-  version: 0.13.0
-  origversion: 0.13.0-1
-  status: outdated
-  summary: git diff pager based on delta but with a file tree, à la GitHub
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: diffnav
-  visiblename: diffnav
-  version: 0.2.8
-  origversion: null
-  status: outdated
-  summary: Git diff pager based on delta but with a file tree, à la GitHub
-  maintainers:
-    - amesgen@amesgen.de
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: diffnav
-  visiblename: diffnav
-  version: 0.3.1
-  origversion: null
-  status: outdated
-  summary: Git diff pager based on delta but with a file tree, à la GitHub
-  maintainers:
-    - amesgen@amesgen.de
-  licenses:
-    - MIT
 - repo: nix_stable_25_11
   srcname: diffnav
   visiblename: diffnav
@@ -134,6 +123,17 @@
   summary: Git diff pager based on delta but with a file tree, à la GitHub
   maintainers:
     - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: diffnav
+  binname: diffnav
+  visiblename: diffnav
+  version: 0.13.0
+  origversion: 0.13.0-1
+  status: outdated
+  summary: git diff pager based on delta but with a file tree, à la GitHub
   licenses:
     - MIT
 - repo: scoop
