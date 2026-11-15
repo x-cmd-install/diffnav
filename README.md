@@ -14,11 +14,11 @@ x install diffnav
 
 ## Code insight
 
-Total: **7,504** lines of code across **45** files in the top 5 languages.
+Total: **7,632** lines of code across **46** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 6,945 | 604 | 921 | 40 |
+| Go | 7,073 | 609 | 938 | 41 |
 | Json | 422 | 0 | 0 | 2 |
 | Yaml | 109 | 1 | 19 | 1 |
 | Bitbake | 26 | 0 | 5 | 1 |
@@ -32,7 +32,7 @@ Total: **7,504** lines of code across **45** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.1` (2026-10-27)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-11-14
 - **Assets in release**: 9
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **7,504** lines of code across **45** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 79 · **Open PRs**: 9 · **Closed issues**: 35 · **Open issues**: 29 · **Commits**: 167
+- **Releases**: 23 · **Merged PRs**: 81 · **Open PRs**: 8 · **Closed issues**: 36 · **Open issues**: 28 · **Commits**: 169
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 1 | 4 | 0 | 3 | 5 |
-| last60d | 2026-09-15 | 2 | 2 | 5 | 0 | 5 | 9 |
-| 90d | 2026-08-16 | 2 | 5 | 5 | 0 | 6 | 13 |
-| last180d | 2026-05-18 | 3 | 8 | 6 | 4 | 7 | 22 |
-| 360d | 2025-11-19 | 13 | 59 | 9 | 17 | 23 | 89 |
-| last720d | 2024-11-24 | 15 | 65 | 9 | 18 | 26 | 98 |
+| 30d | 2026-10-16 | 1 | 3 | 4 | 0 | 3 | 5 |
+| last60d | 2026-09-16 | 2 | 4 | 5 | 1 | 3 | 10 |
+| 90d | 2026-08-17 | 2 | 7 | 5 | 1 | 5 | 12 |
+| last180d | 2026-05-19 | 3 | 10 | 6 | 5 | 6 | 24 |
+| 360d | 2025-11-20 | 13 | 61 | 8 | 18 | 22 | 91 |
+| last720d | 2024-11-25 | 15 | 67 | 8 | 19 | 25 | 100 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for diffnav lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T05:15:09Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T05:08:23Z._
