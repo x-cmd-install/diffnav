@@ -32,27 +32,27 @@ Total: **7,632** lines of code across **46** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.1` (2026-10-27)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-16
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,640 · **Forks**: 55 · **Open issues**: 64 · **Contributors**: 13
+- **Stars**: 1,641 · **Forks**: 55 · **Open issues**: 64 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 81 · **Open PRs**: 8 · **Closed issues**: 36 · **Open issues**: 28 · **Commits**: 169
+- **Releases**: 23 · **Merged PRs**: 81 · **Open PRs**: 8 · **Closed issues**: 36 · **Open issues**: 28 · **Commits**: 170
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 3 | 4 | 0 | 3 | 5 |
-| last60d | 2026-09-17 | 2 | 4 | 5 | 1 | 3 | 10 |
-| 90d | 2026-08-18 | 2 | 7 | 5 | 1 | 5 | 12 |
-| last180d | 2026-05-20 | 3 | 10 | 6 | 5 | 6 | 24 |
-| 360d | 2025-11-21 | 13 | 61 | 8 | 18 | 22 | 91 |
-| last720d | 2024-11-26 | 15 | 67 | 8 | 19 | 25 | 100 |
+| 30d | 2026-10-18 | 1 | 3 | 4 | 0 | 3 | 6 |
+| last60d | 2026-09-18 | 2 | 4 | 5 | 1 | 3 | 11 |
+| 90d | 2026-08-19 | 2 | 7 | 5 | 1 | 5 | 13 |
+| last180d | 2026-05-21 | 3 | 10 | 6 | 5 | 6 | 25 |
+| 360d | 2025-11-22 | 13 | 61 | 8 | 18 | 22 | 92 |
+| last720d | 2024-11-27 | 15 | 67 | 8 | 19 | 25 | 101 |
 
 ## Release assets
 
@@ -70,7 +70,7 @@ Total: **7,632** lines of code across **46** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/diffnav). **6** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/diffnav). **7** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for diffnav lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T05:05:52Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T06:53:10Z._
