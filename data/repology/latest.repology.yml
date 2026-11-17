@@ -53,9 +53,9 @@
   srcname: diffnav
   binname: diffnav
   visiblename: diffnav
-  version: 0.13.0
-  origversion: 0.13.0-1
-  status: outdated
+  version: 0.13.1
+  origversion: 0.13.1-1
+  status: newest
   summary: git diff pager based on delta but with a file tree, à la GitHub
   licenses:
     - MIT
