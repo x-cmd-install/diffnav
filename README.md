@@ -37,7 +37,7 @@ Total: **7,632** lines of code across **46** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,642 · **Forks**: 55 · **Open issues**: 64 · **Contributors**: 13
+- **Stars**: 1,643 · **Forks**: 55 · **Open issues**: 64 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **7,632** lines of code across **46** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 3 | 4 | 0 | 3 | 6 |
-| last60d | 2026-09-20 | 2 | 4 | 5 | 1 | 3 | 11 |
-| 90d | 2026-08-21 | 2 | 5 | 5 | 1 | 5 | 13 |
-| last180d | 2026-05-23 | 3 | 10 | 6 | 5 | 6 | 25 |
-| 360d | 2025-11-24 | 13 | 61 | 8 | 18 | 22 | 92 |
-| last720d | 2024-11-29 | 15 | 67 | 8 | 19 | 25 | 101 |
+| 30d | 2026-10-21 | 1 | 3 | 4 | 0 | 3 | 6 |
+| last60d | 2026-09-21 | 2 | 4 | 5 | 1 | 3 | 11 |
+| 90d | 2026-08-22 | 2 | 4 | 5 | 1 | 5 | 13 |
+| last180d | 2026-05-24 | 3 | 10 | 6 | 5 | 6 | 25 |
+| 360d | 2025-11-25 | 13 | 61 | 8 | 18 | 22 | 92 |
+| last720d | 2024-11-30 | 15 | 67 | 8 | 19 | 25 | 101 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for diffnav lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T06:13:50Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T05:59:14Z._
