@@ -47,12 +47,12 @@ Total: **7,632** lines of code across **46** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 3 | 4 | 0 | 3 | 7 |
-| last60d | 2026-09-22 | 2 | 4 | 5 | 1 | 3 | 12 |
-| 90d | 2026-08-23 | 2 | 4 | 5 | 1 | 5 | 14 |
-| last180d | 2026-05-25 | 3 | 10 | 6 | 5 | 6 | 26 |
-| 360d | 2025-11-26 | 13 | 61 | 8 | 18 | 22 | 93 |
-| last720d | 2024-12-01 | 15 | 66 | 8 | 19 | 25 | 102 |
+| 30d | 2026-10-23 | 1 | 3 | 4 | 0 | 2 | 4 |
+| last60d | 2026-09-23 | 2 | 4 | 5 | 1 | 3 | 12 |
+| 90d | 2026-08-24 | 2 | 4 | 5 | 1 | 5 | 14 |
+| last180d | 2026-05-26 | 3 | 10 | 6 | 5 | 6 | 26 |
+| 360d | 2025-11-27 | 13 | 61 | 8 | 18 | 22 | 93 |
+| last720d | 2024-12-02 | 15 | 66 | 8 | 19 | 25 | 102 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for diffnav lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T05:53:29Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T05:27:25Z._
