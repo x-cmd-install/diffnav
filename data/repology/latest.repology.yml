@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: diffnav
+  visiblename: diffnav
+  version: 0.13.1
+  origversion: null
+  status: newest
+  summary: Git diff pager based on delta but with a file tree
 - repo: arch
   subrepo: extra
   srcname: diffnav
@@ -9,13 +16,6 @@
   summary: git diff pager based on delta but with a file tree, à la GitHub
   licenses:
     - MIT
-- repo: homebrew
-  srcname: diffnav
-  visiblename: diffnav
-  version: 0.13.1
-  origversion: null
-  status: newest
-  summary: Git diff pager based on delta but with a file tree
 - repo: homebrew
   srcname: diffnav
   visiblename: diffnav
@@ -42,9 +42,9 @@
   srcname: diffnav
   binname: diffnav
   visiblename: diffnav
-  version: 0.11.0
-  origversion: 0.11.0-1
-  status: outdated
+  version: 0.13.1
+  origversion: 0.13.1-1
+  status: newest
   summary: git diff pager based on delta but with a file tree, à la GitHub
   licenses:
     - MIT
